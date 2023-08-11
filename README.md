@@ -1,0 +1,1 @@
+This project is about utilizing the skills I've thus far developed in HTML to organize a barebones website about cooking recipes. The skills involved are: setting up the boilerplate for HTML, using ordered and unordered lists, using images, having headings and titles, and using links to other pages.
